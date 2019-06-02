@@ -25,6 +25,7 @@ namespace NBXplorer
 			InitMonoeci(networkType);
 			InitGobyte(networkType);
 			InitColossus(networkType);
+			InitVertcoin(networkType);
 			NetworkType = networkType;
 			foreach(var chain in _Networks.Values)
 			{

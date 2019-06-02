@@ -42,6 +42,7 @@ It currently the following altcoins:
 * Polis
 * Ufo
 * Viacoin
+* Vertcoin
 
 Read our [API Specification](docs/API.md), or our the [internal design of NBXplorer](docs/Design.md).
 

@@ -74,6 +74,10 @@ namespace NBXplorer.Tests
 			//Network = NBitcoin.Altcoins.Colossus.Instance.Regtest;
 			//RPCSupportSegwit = false;
 
+			//CryptoCode = "VTC";
+			//nodeDownloadData = NodeDownloadData.Vertcoin.v0_14_0;
+			//Network = NBitcoin.Altcoins.Vertcoin.Instance.Regtest;
+
 			CryptoCode = "BTC";
 			nodeDownloadData = NodeDownloadData.Bitcoin.v0_18_0;
 			Network = NBitcoin.Network.RegTest;
