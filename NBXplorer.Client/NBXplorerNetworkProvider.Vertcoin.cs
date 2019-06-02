@@ -11,7 +11,7 @@ namespace NBXplorer
 		{
 			Add(new NBXplorerNetwork(NBitcoin.Altcoins.Vertcoin.Instance, networkType)
 			{
-				MinRPCVersion = 140200
+				MinRPCVersion = 140000
 			});
 		}
 
